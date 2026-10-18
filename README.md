@@ -87,7 +87,7 @@ phone,tg_bot_token,tg_chat_id,tg_api_id,tg_api_hash,tg_session
 
 ### 获取 Telegram API ID 和 API Hash
 
-1. 访问 https://my.telegram.org， 用你的tg手机号登录（会收到 Telegram 验证码）
+1. 访问 https://my.telegram.org 用你的tg手机号登录（会收到 Telegram 验证码）
 2. 点击 **API development tools**
 3. 填写表单（App title / Short name 随便填，如 `husauto`）
 4. 提交后页面显示 **App api_id** 和 **App api_hash**
